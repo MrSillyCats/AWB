@@ -1,1 +1,1 @@
-awb.website
+awb.web{https://raw.githubusercontent.com/MrSillyCats/AWB/main/websites/awb.web}
